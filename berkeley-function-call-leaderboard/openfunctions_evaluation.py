@@ -1,6 +1,5 @@
 import argparse, json, os
 import logging
->>>>>>> 28b2532 (Add NVIDIA function calling models)
 from tqdm import tqdm
 from model_handler.handler_map import handler_map
 from model_handler.model_style import ModelStyle
